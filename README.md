@@ -2,7 +2,7 @@
 ## Flags with numbers in your PUBG killfeed
 This project provides files to customize your PUBG killfeed with flags instead of the default numbers.
 
-<img src="killfeed-preview.png" alt="PUBG killfeed with flags and numbers" align="left">
+<img src="killfeed-preview.png" alt="PUBG killfeed with flags and numbers">
 
 This is based on Kowo version shared on his [YouTube video](https://www.youtube.com/watch?v=8OWbQ_wXhpk). The order of flags is consistent, so you can play with someone using his version.
 
@@ -10,7 +10,7 @@ Loved the idea of flags. They are easier to remember and always liked them. I cr
 
 The flags are from [kapowaz](https://kapowaz.github.io/square-flags/).
 
-<img src="preview.png" alt="flags with numbers for PUBG killfeed" align="left">
+<img src="preview.png" alt="flags with numbers for PUBG killfeed">
 
 ## Install
 To get flags in your PUBG killfeed:

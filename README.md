@@ -12,6 +12,6 @@ The flags are from [kapowaz](https://kapowaz.github.io/square-flags/).
 To get flags in your PUBG killfeed:
 
 1. Open your windows file explorer and go to %LOCALAPPDATA%\TslGame\Saved
-2. Paste "TeamInfo.csv" and the "TeamIcon" directory
+2. Paste "TeamInfo.csv" file and the "TeamIcon" directory
 3. Restart PUBG
 4. Profit

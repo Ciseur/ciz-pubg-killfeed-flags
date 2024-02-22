@@ -8,6 +8,8 @@ Loved the idea of flags. They are easier to remember and always liked them. I cr
 
 The flags are from [kapowaz](https://kapowaz.github.io/square-flags/).
 
+<img src="preview.png" alt="flags with numbers for PUBG killfeed" align="left">
+
 ## Install
 To get flags in your PUBG killfeed:
 

@@ -17,7 +17,6 @@ To get flags in your PUBG killfeed:
 
 1. Download the [most recent archive on github](https://github.com/Ciseur/ciz-pubg-killfeed-flags/releases)
 2. Open your windows file explorer and go to %LOCALAPPDATA%\TslGame\Saved
-3. Create an "Observer" directory
-4. Paste "TeamInfo.csv" file and the "TeamIcon" directory in it
-5. Restart PUBG
-6. Profit
+3. Paste "Observer" directory there (it musts contains "TeamInfo.csv" file and the "TeamIcon" directory)
+4. Restart PUBG
+5. Profit

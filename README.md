@@ -10,6 +10,15 @@ Loved the idea of flags. They are easier to remember and always liked them. I cr
 
 The flags are from [kapowaz](https://kapowaz.github.io/square-flags/).
 
+## Install
+To get flags in your PUBG killfeed:
+
+1. Download the [most recent archive on github](https://github.com/Ciseur/ciz-pubg-killfeed-flags/releases)
+2. Open your windows file explorer and go to %LOCALAPPDATA%\TslGame\Saved
+3. Paste "Observer" directory there (it musts contains "TeamInfo.csv" file and the "TeamIcon" directory)
+4. Restart PUBG
+5. Profit
+
 ## List of flags with names
 
 1. <img alt="Canada" src="Observer/TeamIcon/1-CAN.png"> Canada
@@ -62,12 +71,3 @@ The flags are from [kapowaz](https://kapowaz.github.io/square-flags/).
 48. <img alt="Greenland" src="Observer/TeamIcon/48-GRL.png"> Greenland
 49. <img alt="Olympics" src="Observer/TeamIcon/49-OLY.png"> Olympics
 50. <img alt="Pirate" src="Observer/TeamIcon/50-PIR.png"> Pirate
-
-## Install
-To get flags in your PUBG killfeed:
-
-1. Download the [most recent archive on github](https://github.com/Ciseur/ciz-pubg-killfeed-flags/releases)
-2. Open your windows file explorer and go to %LOCALAPPDATA%\TslGame\Saved
-3. Paste "Observer" directory there (it musts contains "TeamInfo.csv" file and the "TeamIcon" directory)
-4. Restart PUBG
-5. Profit

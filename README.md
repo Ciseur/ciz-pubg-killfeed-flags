@@ -1,5 +1,5 @@
 # Flags in PUBG killfeed by Ciseur
-## Flags with numbers in your PUBG killfeed
+## Flags with numbers in your killfeed
 This project provides files to customize your PUBG killfeed with flags instead of the default numbers.
 
 <img src="killfeed-preview.png" alt="PUBG killfeed with flags and numbers">

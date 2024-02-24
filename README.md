@@ -21,6 +21,8 @@ To get flags in your PUBG killfeed:
 
 ## List of flags with names
 
+|||||
+| -- | -- | -- | -- |
 |<img alt="Canada" src="Observer/TeamIcon/1-CAN.png"> Canada|<img alt="Poland" src="Observer/TeamIcon/2-POL.png"> Poland|<img alt="Finland" src="Observer/TeamIcon/3-FIN.png"> Finland|<img alt="Denmark" src="Observer/TeamIcon/4-DNK.png"> Denmark|
 |<img alt="Brazil" src="Observer/TeamIcon/5-BRA.png"> Brazil|<img alt="Germany" src="Observer/TeamIcon/6-DEU.png"> Germany|<img alt="France" src="Observer/TeamIcon/7-FRA.png"> France|<img alt="United Kingdom" src="Observer/TeamIcon/8-GBR.png"> United Kingdom|
 |<img alt="Sweden" src="Observer/TeamIcon/9-SWE.png"> Sweden|<img alt="Norway" src="Observer/TeamIcon/10-NOR.png"> Norway|<img alt="Spain" src="Observer/TeamIcon/11-ESP.png"> Spain|<img alt="Austria" src="Observer/TeamIcon/12-AUT.png"> Austria|

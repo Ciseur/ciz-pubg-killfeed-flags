@@ -1,4 +1,7 @@
 # Flags in PUBG killfeed by Ciseur
+##Support my work
+If you want to buy me a coffee, you can do it on [my paypal page](https://paypal.me/ciseur).
+
 ## Flags with numbers in your killfeed
 This project provides files to customize your PUBG killfeed with flags instead of the default numbers.
 
